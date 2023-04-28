@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikGandhi21" alt="RitikGandhi21" /> </p>
+-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikGandhi21" alt="RitikGandhi21" /> </p>
+
 - 👋 Hi, I’m @RitikGandhi21
 - 👀 I’m interested in Backend Development and Competitive Programming
 - 🌱 I’m currently learning Go  
